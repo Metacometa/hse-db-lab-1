@@ -184,7 +184,7 @@ class Dmbs():
             for j in students:
                 student = j.split()
                 if student[0] == student_id:
-                    string += student[1] + (max_name_length-len(student[1])+3)*" " + student[2] + (max_surname_length-len(student[2])+3)*" " + student[3] + (max_patronymic_length-len(student[3])+3)*" "
+                    string += student[2] + (max_surname_length-len(student[2])+3)*" " + student[1] + (max_name_length-len(student[1])+3)*" " + student[3] + (max_patronymic_length-len(student[3])+3)*" "
             for j in variants:
                 variant = j.split()
                 if variant[0] == variant_id:
