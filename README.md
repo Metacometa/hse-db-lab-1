@@ -10,3 +10,7 @@
 
 Сгенерировать таблицу **(testing table)**, используя таблицы **(students и variants)** в формате **[student_id, variant_id]**, 
 выдавая варианты случайным образом. Вывести данные из файла со сгенерированной таблицей в формате **[student_full_name, variant]**
+
+## Таблицы
+
+![](https://user-images.githubusercontent.com/98475298/231463910-b05835db-0a2d-466b-bf5a-65bd7c2046c8.png)
